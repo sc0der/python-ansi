@@ -1,1 +1,1 @@
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/sc0der/python-ansi/blob/main/ansi.png)
