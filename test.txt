@@ -1,0 +1,24 @@
+    [[blue]]sssssssss       
+ [[blue]]sssssssssssss      
+[[blue]]ssss                
+[[blue]]ssss                
+ [[blue]]sssssssss                               [[green]]00000000
+    [[blue]]sssssssss           [[red]]cccccccccccc    [[green]]000    000   [[yellow]]DDDDDDDDD     [[cyan]]EEEEEEEEE   [[magenta]]RRRRRRRRR
+       [[blue]]sssssssss      [[red]]ccccccccccccccc   [[green]]000    000   [[yellow]]DDD     DDD   [[cyan]]EEE    EE   [[magenta]]RRR    RRR
+              [[blue]]ssss   [[red]]cccc               [[green]]000    000   [[yellow]]DDD      DDD  [[cyan]]EEE         [[magenta]]RRR   RRR
+              [[blue]]ssss  [[red]]cccc                [[green]]000    000   [[yellow]]DDD      DDD  [[cyan]]EEEEEEE     [[magenta]]RRR RRR
+             [[blue]]ssss    [[red]]cccc               [[green]]000    000   [[yellow]]DDD      DDD  [[cyan]]EEE         [[magenta]]RRR  RRR
+   [[blue]]sssssssssssss      [[red]]ccccccccccccccc   [[green]]000    000   [[yellow]]DDD     DDD   [[cyan]]EEE    EE   [[magenta]]RRR    RRR
+    [[blue]]sssssssss          [[red]]ccccccccccccc     [[green]]00000000    [[yellow]]DDDDDDDDD     [[cyan]]EEEEEEEEE   [[magenta]]RRR    RRRR
+
+
+
+                                               ___   ______
+                                              /^ ^\ /[[blue]]S[[red]]c[[green]]0[[yellow]]d[[cyan]]e[[magenta]]r\
+                                              \_-_/
+                                               /_\
+                                              /| |\
+---------------------------------------------- |-| ----------------------------------------------
+
+
+
