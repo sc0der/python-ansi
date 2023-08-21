@@ -33,7 +33,7 @@ def main():
     clear_terminal()
 
     try:
-        with open("test.txt", "r") as f:
+        with open("text.txt", "r") as f:
             ascii_art = f.read()
             print(color_text(ascii_art))
     except FileNotFoundError:
