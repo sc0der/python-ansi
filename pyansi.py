@@ -1,4 +1,5 @@
 import os
+import sys
 import subprocess
 
 # Colors dictionary
@@ -32,12 +33,17 @@ def color_text(text):
 def main():
     clear_terminal()
 
+    file_name = "text.txt" # default file name
+    # get file name from the command line args
+    if len(sys.argv) > 1:
+        file_name = sys.argv[1]
+
     try:
-        with open("text.txt", "r") as f:
+        with open(file_name, "r") as f:
             ascii_art = f.read()
             print(color_text(ascii_art))
     except FileNotFoundError:
-        print("Could not find 'test.txt'")
+            print("Could not find the file " + file_name)
 
 if __name__ == "__main__":
     main()
